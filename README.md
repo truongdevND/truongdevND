@@ -35,7 +35,7 @@
     <img align="center" alt="TruongdevND | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="www.linkedin.com/in/truongdevnd" target="_blank">
+  <a href="https://www.linkedin.com/in/truongdevnd" target="_blank">
     <img align="center" alt="TruongdevND | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   
