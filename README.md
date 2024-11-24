@@ -1,7 +1,7 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/TruongdevND?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/TruongdevND?style=social"> &nbsp;&nbsp; <img alt="TruongdevND | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/TruongdevND?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/TruongdevND?style=social"> &nbsp;&nbsp; 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hello!+I'm+Truong+%3C3;nickname+TruongdevNDWelcome+to+my+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hello!+I'm+Truong+%3C3;nickname+TruongdevND;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
 
@@ -9,9 +9,8 @@
 
 - :credit_card: My full name is **Trần Văn Trường** <img src="https://media1.tenor.com/m/5BYK-WS0__gAAAAd/cool-fun.gif" width="400" align="right"/>
 - :school: I graduated from the Department of Information Technology **Hanoi University of Architecture**
-- :books: My major is **Software Engineering**
 - :earth_asia: I'm living now in **Ha Noi, Viet Nam**
-- :sweat_smile: I am focusing on web development
+- :sweat_smile: I am focusing on frontend web development
 - :monocle_face: I like playing badminton, games, fixing bugs
 
 
